@@ -1,0 +1,3 @@
+To run this project:
+
+zipfs_law.py WordList.txt
