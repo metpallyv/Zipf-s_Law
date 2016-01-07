@@ -1,4 +1,4 @@
-# Zipf-s_Law
+# Zipf's_Law
 
 Goal of this project is verify Zipf's Law on a text document based on the following: 
 
